@@ -6,6 +6,8 @@ Welcome to the most efficient way to bootstrap your Python projects! This one-li
 
 ## 🚀 What's Inside?
 
+![](./demo.gif)
+
 ### 🛠️ cli.py` - The Project Wizard
 A magical project setup tool that:
 - 🎯 Creates a new Python project structure
