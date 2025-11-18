@@ -29,7 +29,7 @@ Execute the script with UV for maximum speed and compatibility:
 
 ```bash
 # Create a new project with style
-uv run 03-new-project.py
+uv run cli.py
 ```
 
 ## 🎉 Pro Tips
